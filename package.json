@@ -1,0 +1,16 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "- [x] This portfolio website has both dark and light.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "flutter run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
